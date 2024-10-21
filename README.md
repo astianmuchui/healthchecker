@@ -1,5 +1,5 @@
 ## HealthChecker
-Minimal commandline go
+Minimal commandline website healthchecker in go
 
 ## How to run
 
